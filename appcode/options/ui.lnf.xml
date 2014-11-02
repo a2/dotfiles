@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<application>
+  <component name="UISettings">
+    <option name="FONT_FACE" value="HelveticaNeue-Medium" />
+    <option name="FONT_SIZE" value="12" />
+    <option name="HIDE_TOOL_STRIPES" value="false" />
+    <option name="OVERRIDE_NONIDEA_LAF_FONTS" value="true" />
+    <option name="DEFAULT_AUTOSCROLL_TO_SOURCE" value="true" />
+  </component>
+</application>
+

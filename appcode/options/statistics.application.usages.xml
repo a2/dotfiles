@@ -1,0 +1,203 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<application>
+  <component name="StatisticsApplicationUsages">
+    <group name="file-type">
+      <project id="JTSImageVC" values="UNKNOWN,ObjectiveC,Strings,Asset Catalog Contents,plist,Storyboard,Images" />
+      <project id="AsureSpace" values="ObjectiveC,xconfig,Asset Catalog Contents,JSON,plist,Strings,Podfile,XIB,Images,UNKNOWN,PLAIN_TEXT,Storyboard" />
+      <project id="Lumberjack" values="Strings,UNKNOWN,plist,PLAIN_TEXT,XIB,ObjectiveC" />
+      <project id="Sparkle" values="XIB,ObjectiveC,xconfig,Strings,PLAIN_TEXT,UNKNOWN,plist,Images" />
+      <project id="Fotosuto" values="Asset Catalog Contents,xconfig,UNKNOWN,Podfile,PLAIN_TEXT,ObjectiveC,Storyboard,plist,Images" />
+      <project id="AdvancedCollectionView" values="XIB,UNKNOWN,ObjectiveC,Storyboard,JSON,Asset Catalog Contents,plist,Images" />
+      <project id="Roadie" values="JavaScript,Core Data model,XIB,UNKNOWN,Storyboard,Native,xconfig,Images,PLAIN_TEXT,plist,Strings,ObjectiveC,Podfile,Asset Catalog Contents" />
+      <project id="Ono Example" values="XML,ObjectiveC,Strings,UNKNOWN,HTML,plist" />
+      <project id="DrawerKitchenSink" values="plist,Images,Asset Catalog Contents,UNKNOWN,Strings,ObjectiveC" />
+      <project id="Notation" values="PLAIN_TEXT,plist,ObjectiveC,Images,CSS,HTML,Strings,UNKNOWN,XIB" />
+      <project id="Arena" values="Core Data model,ObjectiveC,XIB,JSON,Strings,plist,Asset Catalog Contents,Images,UNKNOWN,PLAIN_TEXT,HTML" />
+      <project id="appledoc" values="UNKNOWN" />
+      <project id="ContainerBugStomper" values="Asset Catalog Contents,plist,Images,XIB,UNKNOWN,ObjectiveC" />
+      <project id="ClangKit" values="PLAIN_TEXT,plist,UNKNOWN,Strings,ObjectiveC" />
+      <project id="PartyJukeBox" values="Images,PLAIN_TEXT,Asset Catalog Contents,XIB,UNKNOWN,ObjectiveC,Strings,plist" />
+      <project id="BonjourServer" values="PLAIN_TEXT,plist,XIB,UNKNOWN,ObjectiveC,Strings" />
+      <project id="Mantle" values="plist,UNKNOWN,ObjectiveC" />
+      <project id="RXCollections" values="PLAIN_TEXT,ObjectiveC,plist,Strings,UNKNOWN" />
+      <project id="JVFloatLabeledTextField" values="ObjectiveC,UNKNOWN,Asset Catalog Contents,plist,Images" />
+    </group>
+    <group name="JavaScript versions">
+      <project id="JTSImageVC" values="DEFAULT" />
+      <project id="AsureSpace" values="DEFAULT" />
+      <project id="Lumberjack" values="DEFAULT" />
+      <project id="Sparkle" values="DEFAULT" />
+      <project id="Fotosuto" values="DEFAULT" />
+      <project id="AdvancedCollectionView" values="DEFAULT" />
+      <project id="Roadie" values="DEFAULT" />
+      <project id="Ono Example" values="DEFAULT" />
+      <project id="DrawerKitchenSink" values="DEFAULT" />
+      <project id="Notation" values="DEFAULT" />
+      <project id="Arena" values="DEFAULT" />
+      <project id="appledoc" values="DEFAULT" />
+      <project id="ContainerBugStomper" values="DEFAULT" />
+      <project id="ClangKit" values="DEFAULT" />
+      <project id="PartyJukeBox" values="DEFAULT" />
+      <project id="BonjourServer" values="DEFAULT" />
+      <project id="Mantle" values="DEFAULT" />
+      <project id="RXCollections" values="DEFAULT" />
+      <project id="JVFloatLabeledTextField" values="DEFAULT" />
+    </group>
+    <group name="vcs">
+      <project id="AsureSpace" values="Git" />
+      <project id="Sparkle" values="Git" />
+      <project id="Fotosuto" values="Git" />
+      <project id="AdvancedCollectionView" values="Git" />
+      <project id="Roadie" values="Git" />
+      <project id="Notation" values="Git" />
+      <project id="Arena" values="Git" />
+      <project id="appledoc" values="Git" />
+      <project id="ContainerBugStomper" values="Git" />
+      <project id="ClangKit" values="Git" />
+      <project id="PartyJukeBox" values="Git" />
+      <project id="Mantle" values="Git" />
+      <project id="RXCollections" values="Git" />
+      <project id="JVFloatLabeledTextField" values="Git" />
+    </group>
+    <group name="run-configuration-type-temp">
+      <project id="BonjourServer" values="AppleRunConfiguration" />
+    </group>
+    <group name="UI File Format">
+      <project id="JTSImageVC" values="Storyboard iPhone (3.0)" />
+      <project id="AsureSpace" values="Modern Xib iPhone (3.0),Storyboard iPhone (3.0)" />
+      <project id="Lumberjack" values="Xib OS X (8.00)" />
+      <project id="ContainerBugStomper" values="Modern Xib iPad (3.0),Modern Xib iPhone (3.0)" />
+      <project id="Sparkle" values="Xib OS X (7.10),Xib OS X (8.00),Modern Xib OS X (3.0)" />
+      <project id="PartyJukeBox" values="Xib iPhone (7.10),Modern Xib iPhone (3.0),Xib iPhone (8.00)" />
+      <project id="BonjourServer" values="Xib OS X (7.10)" />
+      <project id="Roadie" values="Storyboard iPhone (3.0),Modern Xib iPhone (3.0)" />
+      <project id="Fotosuto" values="Storyboard iPhone (3.0)" />
+      <project id="AdvancedCollectionView" values="Modern Xib iPhone (3.0),Storyboard iPhone (3.0)" />
+      <project id="Notation" values="Modern Xib OS X (3.0)" />
+      <project id="Arena" values="Modern Xib iPad (3.0),Xib iPhone (8.00),Modern Xib iPhone (3.0)" />
+    </group>
+    <group name="run-configuration-type">
+      <project id="JTSImageVC" values="AppleRunConfiguration" />
+      <project id="AsureSpace" values="AppleRunConfiguration" />
+      <project id="Lumberjack" values="AppleRunConfiguration" />
+      <project id="Sparkle" values="AppleRunConfiguration" />
+      <project id="Fotosuto" values="AppleRunConfiguration" />
+      <project id="AdvancedCollectionView" values="AppleRunConfiguration" />
+      <project id="Roadie" values="AppleRunConfiguration" />
+      <project id="Ono Example" values="AppleRunConfiguration" />
+      <project id="DrawerKitchenSink" values="AppleRunConfiguration" />
+      <project id="Notation" values="AppleRunConfiguration" />
+      <project id="Arena" values="AppleRunConfiguration" />
+      <project id="ContainerBugStomper" values="AppleRunConfiguration" />
+      <project id="ClangKit" values="AppleRunConfiguration" />
+      <project id="PartyJukeBox" values="AppleRunConfiguration" />
+      <project id="Mantle" values="AppleRunConfiguration" />
+      <project id="RXCollections" values="AppleRunConfiguration" />
+      <project id="JVFloatLabeledTextField" values="AppleRunConfiguration" />
+    </group>
+    <group name="Build Settings">
+      <project id="JTSImageVC" values="CLANG_CXX_LANGUAGE_STANDARD gnu++0x,GCC_C_LANGUAGE_STANDARD gnu99,CLANG_CXX_LIBRARY libc++,CLANG_ENABLE_OBJC_ARC YES,GCC_VERSION " />
+      <project id="AsureSpace" values="GCC_C_LANGUAGE_STANDARD gnu99,CLANG_ENABLE_OBJC_ARC YES,CLANG_CXX_LIBRARY libc++,CLANG_CXX_LANGUAGE_STANDARD gnu++0x,CLANG_ENABLE_OBJC_ARC NO,GCC_VERSION ,GCC_VERSION com.apple.compilers.llvm.clang.1_0" />
+      <project id="Lumberjack" values="CLANG_ENABLE_OBJC_ARC YES,GCC_VERSION com.apple.compilers.llvm.clang.1_0,GCC_C_LANGUAGE_STANDARD gnu99" />
+      <project id="Sparkle" values="GCC_VERSION ,CLANG_ENABLE_OBJC_ARC YES" />
+      <project id="Fotosuto" values="CLANG_ENABLE_OBJC_ARC NO,GCC_VERSION ,CLANG_ENABLE_OBJC_ARC YES,GCC_VERSION com.apple.compilers.llvm.clang.1_0,GCC_C_LANGUAGE_STANDARD gnu99,CLANG_CXX_LANGUAGE_STANDARD gnu++0x,CLANG_CXX_LIBRARY libc++" />
+      <project id="AdvancedCollectionView" values="GCC_C_LANGUAGE_STANDARD gnu99,GCC_VERSION ,CLANG_ENABLE_OBJC_ARC YES,CLANG_CXX_LIBRARY libc++,CLANG_CXX_LANGUAGE_STANDARD gnu++0x" />
+      <project id="Roadie" values="CLANG_CXX_LANGUAGE_STANDARD gnu++0x,GCC_VERSION ,GCC_VERSION com.apple.compilers.llvm.clang.1_0,GCC_C_LANGUAGE_STANDARD gnu99,CLANG_ENABLE_OBJC_ARC YES,CLANG_CXX_LIBRARY libc++,CLANG_ENABLE_OBJC_ARC NO" />
+      <project id="Ono Example" values="CLANG_ENABLE_OBJC_ARC YES,CLANG_CXX_LANGUAGE_STANDARD gnu++0x,CLANG_CXX_LIBRARY libc++,GCC_VERSION ,GCC_C_LANGUAGE_STANDARD gnu99" />
+      <project id="DrawerKitchenSink" values="GCC_VERSION ,CLANG_ENABLE_OBJC_ARC YES,CLANG_CXX_LANGUAGE_STANDARD gnu++0x,CLANG_CXX_LIBRARY libc++,GCC_C_LANGUAGE_STANDARD gnu99" />
+      <project id="Notation" values="CLANG_CXX_LIBRARY libc++,GCC_VERSION ,GCC_C_LANGUAGE_STANDARD gnu99,CLANG_CXX_LANGUAGE_STANDARD gnu++0x" />
+      <project id="Arena" values="CLANG_CXX_LANGUAGE_STANDARD gnu++0x,GCC_VERSION ,CLANG_CXX_LIBRARY libc++,GCC_C_LANGUAGE_STANDARD gnu99,CLANG_ENABLE_OBJC_ARC YES" />
+      <project id="ContainerBugStomper" values="GCC_C_LANGUAGE_STANDARD gnu99,GCC_VERSION ,CLANG_CXX_LANGUAGE_STANDARD gnu++0x,CLANG_ENABLE_OBJC_ARC YES,CLANG_CXX_LIBRARY libc++" />
+      <project id="ClangKit" values="GCC_C_LANGUAGE_STANDARD gnu99,CLANG_CXX_LIBRARY libc++,CLANG_ENABLE_OBJC_ARC YES,GCC_VERSION ,CLANG_CXX_LANGUAGE_STANDARD c++0x" />
+      <project id="PartyJukeBox" values="CLANG_ENABLE_OBJC_ARC YES,GCC_C_LANGUAGE_STANDARD gnu99,GCC_VERSION com.apple.compilers.llvm.clang.1_0" />
+      <project id="BonjourServer" values="CLANG_ENABLE_OBJC_ARC YES,GCC_C_LANGUAGE_STANDARD gnu99,GCC_VERSION com.apple.compilers.llvm.clang.1_0" />
+      <project id="Mantle" values="CLANG_CXX_LANGUAGE_STANDARD gnu++0x,CLANG_ENABLE_OBJC_ARC YES,GCC_VERSION ,CLANG_CXX_LIBRARY libc++,GCC_C_LANGUAGE_STANDARD gnu99" />
+      <project id="RXCollections" values="GCC_C_LANGUAGE_STANDARD gnu99,CLANG_ENABLE_OBJC_ARC YES,CLANG_CXX_LANGUAGE_STANDARD gnu++0x,GCC_VERSION com.apple.compilers.llvm.clang.1_0,CLANG_CXX_LANGUAGE_STANDARD c++0x,CLANG_CXX_LIBRARY libc++,GCC_C_LANGUAGE_STANDARD c11,GCC_VERSION " />
+      <project id="JVFloatLabeledTextField" values="GCC_C_LANGUAGE_STANDARD gnu99,CLANG_CXX_LANGUAGE_STANDARD gnu++0x,CLANG_ENABLE_OBJC_ARC YES,GCC_VERSION ,CLANG_CXX_LIBRARY libc++" />
+    </group>
+    <group name="javaScript Scope Usages">
+      <project id="JTSImageVC" values="Project,Project" />
+      <project id="AsureSpace" values="Project,Project" />
+      <project id="Lumberjack" values="Project,Project" />
+      <project id="Sparkle" values="Project,Project" />
+      <project id="Fotosuto" values="Project,Project" />
+      <project id="AdvancedCollectionView" values="Project,Project" />
+      <project id="Roadie" values="Project,Project" />
+      <project id="Ono Example" values="Project,Project" />
+      <project id="DrawerKitchenSink" values="Project,Project" />
+      <project id="Notation" values="Project,Project" />
+      <project id="Arena" values="Project,Project" />
+      <project id="appledoc" values="Project,Project" />
+      <project id="ContainerBugStomper" values="Project,Project" />
+      <project id="ClangKit" values="Project,Project" />
+      <project id="PartyJukeBox" values="Project,Project" />
+      <project id="BonjourServer" values="Project,Project" />
+      <project id="Mantle" values="Project,Project" />
+      <project id="RXCollections" values="Project,Project" />
+      <project id="JVFloatLabeledTextField" values="Project,Project" />
+    </group>
+    <group name="SDK">
+      <project id="JTSImageVC" values="iOS 8.0" />
+      <project id="AsureSpace" values="iOS 8.0" />
+      <project id="Lumberjack" values="OS X 10.9" />
+      <project id="Sparkle" values="OS X 10.10" />
+      <project id="Fotosuto" values="iOS 8.0" />
+      <project id="AdvancedCollectionView" values="iOS 8.1" />
+      <project id="Roadie" values="iOS 8.1" />
+      <project id="Ono Example" values="OS X 10.10" />
+      <project id="DrawerKitchenSink" values="iOS 8.0" />
+      <project id="Notation" values="OS X 10.10" />
+      <project id="Arena" values="iOS 8.0" />
+      <project id="ContainerBugStomper" values="iOS 8.0" />
+      <project id="ClangKit" values="OS X 10.9" />
+      <project id="PartyJukeBox" values="iOS 8.0" />
+      <project id="BonjourServer" values="OS X 10.10" />
+      <project id="Mantle" values="iOS 8.0,OS X 10.10" />
+      <project id="RXCollections" values="iOS 8.0,OS X 10.10" />
+      <project id="JVFloatLabeledTextField" values="iOS 8.0" />
+    </group>
+    <group name="module type">
+      <project id="JTSImageVC" values="CIDR_MODULE" />
+      <project id="AsureSpace" values="CIDR_MODULE" />
+      <project id="Lumberjack" values="CIDR_MODULE" />
+      <project id="Sparkle" values="CIDR_MODULE" />
+      <project id="Fotosuto" values="CIDR_MODULE" />
+      <project id="AdvancedCollectionView" values="CIDR_MODULE" />
+      <project id="Roadie" values="CIDR_MODULE" />
+      <project id="Ono Example" values="CIDR_MODULE" />
+      <project id="DrawerKitchenSink" values="CIDR_MODULE" />
+      <project id="Notation" values="CIDR_MODULE" />
+      <project id="Arena" values="CIDR_MODULE" />
+      <project id="appledoc" values="CIDR_MODULE" />
+      <project id="ContainerBugStomper" values="CIDR_MODULE" />
+      <project id="ClangKit" values="CIDR_MODULE" />
+      <project id="PartyJukeBox" values="CIDR_MODULE" />
+      <project id="BonjourServer" values="CIDR_MODULE" />
+      <project id="Mantle" values="CIDR_MODULE" />
+      <project id="RXCollections" values="CIDR_MODULE" />
+      <project id="JVFloatLabeledTextField" values="CIDR_MODULE" />
+    </group>
+  </component>
+  <component name="UsageTrigger">
+    <counts>
+      <entry feature="designer.ui-file-format.timeout" count="2" />
+      <entry feature="ide.settings.Appearance" count="7" />
+      <entry feature="ide.settings.Bower" count="1" />
+      <entry feature="ide.settings.C/C++/Objective-C" count="23" />
+      <entry feature="ide.settings.Code_Generation" count="1" />
+      <entry feature="ide.settings.Code_Style" count="2" />
+      <entry feature="ide.settings.Colors_&amp;_Fonts" count="1" />
+      <entry feature="ide.settings.Font" count="4" />
+      <entry feature="ide.settings.General" count="4" />
+      <entry feature="ide.settings.Git" count="1" />
+      <entry feature="ide.settings.GitHub" count="1" />
+      <entry feature="ide.settings.Inspections" count="1" />
+      <entry feature="ide.settings.Perforce" count="1" />
+      <entry feature="ide.settings.Updates" count="1" />
+      <entry feature="ide.settings.Web_Browsers" count="1" />
+      <entry feature="ide.settings.XML" count="1" />
+      <entry feature="ide.settings.Xcode" count="1" />
+    </counts>
+  </component>
+</application>
+
