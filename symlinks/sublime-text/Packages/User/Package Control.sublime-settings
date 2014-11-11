@@ -2,15 +2,11 @@
 	"installed_packages":
 	[
 		"Base16 Color Schemes",
-		"Hex-Bin System",
-		"Indent XML",
 		"Pretty JSON",
-		"Sass",
 		"SideBarEnhancements",
 		"Stringify",
 		"SublimeLinter",
 		"SublimeLinter-annotations",
-		"SublimeLinter-contrib-clang",
 		"SublimeLinter-json",
 		"Theme - Soda",
 		"TrailingSpaces"
