@@ -1,4 +1,3 @@
-<?xml version="1.0" encoding="UTF-8"?>
 <code_scheme name="Zachary (Spaces)">
   <Objective-C>
     <option name="METHOD_BRACE_PLACEMENT" value="2" />
@@ -45,4 +44,3 @@
     </indentOptions>
   </codeStyleSettings>
 </code_scheme>
-

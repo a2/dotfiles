@@ -1,4 +1,3 @@
-<?xml version="1.0" encoding="UTF-8"?>
 <code_scheme name="Default (1)">
   <Objective-C-extensions>
     <option name="GENERATE_INSTANCE_VARIABLES_FOR_PROPERTIES" value="ASK" />
@@ -34,4 +33,3 @@
     </indentOptions>
   </codeStyleSettings>
 </code_scheme>
-

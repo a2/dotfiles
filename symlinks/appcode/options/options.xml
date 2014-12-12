@@ -1,4 +1,3 @@
-<?xml version="1.0" encoding="UTF-8"?>
 <application>
   <component name="DimensionService">
     <location key="WELCOME_SCREEN.0.0.1440.900" x="720" y="436" />
@@ -42,6 +41,8 @@
     <property name="LayoutCode.optimizeImports" value="false" />
     <property name="MemberChooser.sorted" value="false" />
     <property name="MemberChooser.showClasses" value="true" />
+    <property name="evlsprt3.OC-139.261" value="11" />
+    <property name="evlsprt.OC-139.261" value="149f569ec00" />
+    <property name="evlsprt2.OC-139.261" value="149c012e78a" />
   </component>
 </application>
-

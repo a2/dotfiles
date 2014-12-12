@@ -1,4 +1,3 @@
-<?xml version="1.0" encoding="UTF-8"?>
 <application>
   <component name="CachedDictionaryState">
     <words>
@@ -18,10 +17,13 @@
       <w>diffie</w>
       <w>encodable</w>
       <w>expf</w>
+      <w>fabs</w>
       <w>fabsf</w>
+      <w>fallbacks</w>
       <w>floorf</w>
       <w>fmax</w>
       <w>fmaxf</w>
+      <w>fmin</w>
       <w>fminf</w>
       <w>fobjc</w>
       <w>fotosuto</w>
@@ -37,6 +39,7 @@
       <w>resized</w>
       <w>restorable</w>
       <w>rint</w>
+      <w>rintf</w>
       <w>roundf</w>
       <w>scheinem</w>
       <w>scheiner</w>
@@ -51,4 +54,3 @@
     </words>
   </component>
 </application>
-

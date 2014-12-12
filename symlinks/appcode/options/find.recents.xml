@@ -1,0 +1,10 @@
+<application>
+  <component name="FindRecents">
+    <findStrings>
+      <find>rintf</find>
+      <find>__tg_rint</find>
+      <find>textc</find>
+      <find>heightOfAttributes</find>
+    </findStrings>
+  </component>
+</application>
