@@ -2,6 +2,7 @@
 	"installed_packages":
 	[
 		"Base16 Color Schemes",
+		"Package Control",
 		"Pretty JSON",
 		"SideBarEnhancements",
 		"Stringify",
