@@ -5,6 +5,9 @@
       <find>__tg_rint</find>
       <find>textc</find>
       <find>heightOfAttributes</find>
+      <find>dataSource</find>
+      <find>firstSectionOverlappingYOffset</find>
+      <find>sectionOverlappingYOffset</find>
     </findStrings>
   </component>
 </application>
