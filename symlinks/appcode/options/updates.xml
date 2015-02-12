@@ -7,9 +7,8 @@
     </option>
     <option name="myKnownUpdateChannels">
       <value>
-        <list size="2">
-          <item index="0" class="java.lang.String" itemvalue="appcode_3" />
-          <item index="1" class="java.lang.String" itemvalue="appcode_eap_31" />
+        <list size="1">
+          <item index="0" class="java.lang.String" itemvalue="appcode_31" />
         </list>
       </value>
     </option>
@@ -19,8 +18,8 @@
       </value>
     </option>
     <option name="CHECK_NEEDED" value="true" />
-    <option name="LAST_TIME_CHECKED" value="1416869323445" />
-    <option name="LAST_BUILD_CHECKED" value="OC-139.261" />
+    <option name="LAST_TIME_CHECKED" value="1422045907796" />
+    <option name="LAST_BUILD_CHECKED" value="OC-139.677" />
     <option name="UPDATE_CHANNEL_TYPE" value="eap" />
   </component>
 </application>
