@@ -121,8 +121,6 @@
         "fish/functions": "~/.config/fish/",
         "git/.*": "~",
         "lldb/*": "~",
-        "mate/.*": "~",
-        "mate/bundles": "~/Library/Application Support/TextMate/Managed/Bundles",
         "ruby/.*": "~",
         "safari/*": "~/Library/Safari/",
         "sh/.*": "~",
