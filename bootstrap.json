@@ -105,12 +105,6 @@
         "zsh-completions"
     ],
     "icons": {
-        "Evernote": "icons/Evernote.icns",
-        "Messages": "icons/Messages.icns",
-        "Quartz Composer": "icons/QuartzComposer.icns",
-        "Slack": "icons/Slack.icns",
-        "Spotify": "icons/Spotify.icns",
-        "Steam": "icons/Steam.icns",
         "Sublime Text": "icons/SublimeText.icns"
     },
     "symlinks": {
