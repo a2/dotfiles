@@ -2,8 +2,7 @@
     "after-scripts": [
         "./script/update_ruby.sh",
         "brew linkapps",
-        "./script/duckduckgo.sh",
-        "./script/hide_bin.sh"
+        "./script/unhide_library.sh"
     ],
     "casks": [
         "alfred",
