@@ -3,6 +3,7 @@
         "./script/update_ruby.sh",
         "brew linkapps",
         "./script/unhide_library.sh"
+        "./script/hide_bin.sh"
     ],
     "casks": [
         "alfred",
