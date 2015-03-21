@@ -1,11 +1,10 @@
-# zwaldowski does dotfiles
+# a2 does dotfiles
 
 ## dotfiles
 
 Your dotfiles are how you personalize your system. These are mine.
 
-Inspired by @holman's [dotfiles](https://github.com/holman/dotfiles) and
-@msanders' [dotfiles](https://github.com/msanders).
+Inspired by [holman](https://github.com/holman/dotfiles), [msanders](https://github.com/msanders), and [zwaldowski](https://github.com/zwaldowski/dotfiles).
 
 ## install
 
