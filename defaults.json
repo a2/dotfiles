@@ -42,58 +42,45 @@
         "ShowTabView": false
     },
     "com.apple.AppleMultitouchTrackpad": {
-        "Clicking": true,
+        "ActuateDetents": true,
+        "Clicking": false,
+        "Dragging": false,
+        "DragLock": false,
+        "FirstClickThreshold": 1,
+        "ForceSuppressed": false,
+        "SecondClickThreshold": 1,
         "TrackpadFiveFingerPinchGesture": 2,
         "TrackpadFourFingerHorizSwipeGesture": 2,
         "TrackpadFourFingerPinchGesture": 2,
         "TrackpadFourFingerVertSwipeGesture": 2,
         "TrackpadThreeFingerDrag": false,
-        "TrackpadThreeFingerHorizSwipeGesture": 1,
-        "TrackpadThreeFingerTapGesture": 2,
-        "TrackpadThreeFingerVertSwipeGesture": 2
+        "TrackpadThreeFingerHorizSwipeGesture": 2,
+        "TrackpadThreeFingerTapGesture": false,
+        "TrackpadThreeFingerVertSwipeGesture": 2,
+        "TrackpadTwoFingerDoubleTapGesture": 1,
+        "TrackpadTwoFingerFromRightEdgeSwipeGesture": 3,
     },
     "com.apple.driver.AppleBluetoothMultitouch.trackpad": {
-        "Clicking": true,
+        "ActuateDetents": true,
+        "Clicking": false,
+        "Dragging": false,
+        "DragLock": false,
+        "FirstClickThreshold": 1,
+        "ForceSuppressed": false,
+        "SecondClickThreshold": 1,
         "TrackpadFiveFingerPinchGesture": 2,
         "TrackpadFourFingerHorizSwipeGesture": 2,
         "TrackpadFourFingerPinchGesture": 2,
         "TrackpadFourFingerVertSwipeGesture": 2,
         "TrackpadThreeFingerDrag": false,
-        "TrackpadThreeFingerHorizSwipeGesture": 1,
-        "TrackpadThreeFingerTapGesture": 2,
-        "TrackpadThreeFingerVertSwipeGesture": 2
-    },
-    "com.apple.screencapture": {
-        "disable-shadow": true
-    },
-    "com.apple.frameworks.diskimages": {
-        "auto-open-ro-root": 0,
-        "auto-open-rw-root": 0
+        "TrackpadThreeFingerHorizSwipeGesture": 2,
+        "TrackpadThreeFingerTapGesture": false,
+        "TrackpadThreeFingerVertSwipeGesture": 2,
+        "TrackpadTwoFingerDoubleTapGesture": 1,
+        "TrackpadTwoFingerFromRightEdgeSwipeGesture": 3,
     },
     "com.apple.Spotlight": {
         "showedFTE": true
-    },
-    "com.google.Chrome": {
-        "ExtensionInstallSources": [ "https://gist.githubusercontent.com/", "http://userscripts.org/*" ]
-    },
-    "com.google.Chrome.canary": {
-        "ExtensionInstallSources": [ "https://gist.githubusercontent.com/", "http://userscripts.org/*" ]
-    },
-    "com.webkit.nightly.WebKit": {
-        "StartPageDisabled": 1
-    },
-    "org.eyebeam.SelfControl": {
-        "HostBlacklist": [
-            "facebook.com",
-            "twitter.com",
-            "reddit.com",
-            "tumblr.com",
-            "youtube.com",
-            "9gag.com",
-            "netflix.com",
-            "hulu.com",
-            "buzzfeed.com"
-        ]
     },
     "org.m0k.transmission": {
         "UseIncompleteDownloadFolder": 0,
@@ -102,18 +89,6 @@
         "DeleteOriginalTorrent": 1,
         "WarningDonate": 0,
         "WarningLegal": 0
-    },
-    "com.evernote.Evernote": {
-        "ENNotebooksViewMode": 1,
-        "ENWKNoteEditorPrefsWebKitStandardFont": "Helvetica Neue",
-        "runHelperAtLogin": false,
-        "runHelperAtLoginPreserved": true,
-        "runHelperWithoutMainApp": false,
-        "runHelperWithoutMainAppPreserved": true,
-        "showsStatusBarItem": false
-    },
-    "com.evernote.EvernoteHelper": {
-        "showsStatusBarItem": false
     },
     "com.apple.airplay": {
         "showInMenuBarIfPresent": false
