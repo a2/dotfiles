@@ -7,7 +7,6 @@
     ],
     "casks": [
         "alfred",
-        "android-studio",
         "appcode",
         "bartender",
         "coderunner",
@@ -71,7 +70,6 @@
         "wineskin-winery"
     ],
     "formulas": [
-        "android-sdk",
         "brew-cask",
         "carthage",
         "class-dump --HEAD",
@@ -116,7 +114,6 @@
         "Sublime Text": "icons/SublimeText.icns"
     },
     "symlinks": {
-        "android-studio/*": "~/Library/Preferences/AndroidStudio/",
         "appcode/*": "~/Library/Preferences/appCode31/",
         "bin/*": "~/bin/",
         "clang/.*": "~",
