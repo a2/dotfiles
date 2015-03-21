@@ -6,7 +6,6 @@
     ],
     "casks": [
         "alfred",
-        "appcode",
         "bartender",
         "coderunner",
         "daisydisk",
@@ -107,7 +106,6 @@
         "Sublime Text": "icons/SublimeText.icns"
     },
     "symlinks": {
-        "appcode/*": "~/Library/Preferences/appCode31/",
         "bin/*": "~/bin/",
         "clang/.*": "~",
         "fish/*.fish": "~/.config/fish/",
