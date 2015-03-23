@@ -2,18 +2,25 @@
     "after-scripts": [
         "./script/update_ruby.sh",
         "brew linkapps",
-        "./script/unhide_library.sh"
+        "./script/unhide_library.sh",
         "./script/hide_bin.sh"
     ],
     "casks": [
         "alfred",
+        "arq",
         "bartender",
+        "base",
+        "charles",
+        "cleanmymac",
         "daisydisk",
+        "droplr",
         "evernote",
         "fauxpas",
         "flux",
         "github",
+        "goofy",
         "google-hangouts",
+        "hex-fiend",
         "hopper-disassembler",
         "iexplorer",
         "imagealpha",
@@ -59,7 +66,7 @@
         "zsh-completions"
     ],
     "icons": {
-        "Sublime Text": "icons/SublimeText.icns"
+        "Sublime Text 2": "icons/SublimeText.icns"
     },
     "symlinks": {
         "bin/*": "~/bin/",

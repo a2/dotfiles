@@ -19,10 +19,12 @@ alias pubkey="more ~/.ssh/id_rsa.pub | pbcopy | echo '=> Public key copied to pa
 
 export ZSH=$HOME/.cider/zsh/oh-my-zsh
 export ZSH_CUSTOM=$HOME/.cider/zsh/custom
+export PATH=~/bin/:$PATH
 
 ZSH_THEME="kolo"
 COMPLETION_WAITING_DOTS="true"
 DISABLE_AUTO_TITLE="true"
-plugins=(brew brew-cask extract history-substring-search git sublime terminalapp xcode)
+plugins=(brew brew-cask extract history-substring-search git terminalapp xcode)
+alias st=subl
 
 source $ZSH/oh-my-zsh.sh
